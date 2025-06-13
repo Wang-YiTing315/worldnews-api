@@ -3,7 +3,7 @@ import json
 
 def search_drone_news():
     # API配置
-    api_key = "ea4892cb2ceb4f55b0fcd5b925d51eb8"
+    api_key = "your api key"
     base_url = "https://api.worldnewsapi.com/search-news"
     
     # 请求参数
