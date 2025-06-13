@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "4fbfa884f56e4829bf0aad0a47313116"
+API_KEY = "your api key"
 BASE_URL = "https://api.worldnewsapi.com/suggest-news-source"
 
 def check_news_source(url):
